@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello_Android_Intermediate</string>
+    <string name="intro">Hello World! My name is Adetunji Adewoye. I love Android Development and music</string>
+    <string name="say_hello">Say Hello!</string>
+</resources>
